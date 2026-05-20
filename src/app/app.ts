@@ -11,5 +11,5 @@ import { Footer } from './partials/footer/footer';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('lab3');
+  protected readonly title = signal('lab4');
 }
