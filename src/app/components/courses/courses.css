@@ -18,6 +18,10 @@ th:hover {
   background-color: #ddd;
 }
 
+td a:hover {
+  text-decoration: underline;
+}
+
 input {
   padding: 0.5rem;
   width: 300px;
