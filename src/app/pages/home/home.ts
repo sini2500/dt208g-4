@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
-import { QuizForm } from "../../components/quiz-form/quiz-form";
+import { CourseComponent } from '../../components/courses/courses';
 
 @Component({
   selector: 'app-home',
-  imports: [QuizForm],
+  imports: [CourseComponent],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })
